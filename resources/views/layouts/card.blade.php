@@ -15,7 +15,7 @@
         <h2 class=" font-bold text-2xl ">fique por dentro de <br> todas as novidades</h2>
         <div class="flex flex-col">
             <button class="bg-white rounded-full p-1 font-bold px-6 mb-1">Login</button>
-            <button class="bg-white rounded-full p-1 font-bold px-6">Cadastro</button>
+            <button class="bg-white rounded-full p-1 font-bold px-6 ">Cadastro</button>
         </div>
         <img src="" alt="">
     </div>

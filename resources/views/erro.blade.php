@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>SHOPIX</h1>
-    <h2>Explore, escolha, compre. Sua jornada de compras começa aqui.</h2>
+    
 </body>
 </html>
