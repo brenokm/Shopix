@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class Erro extends Controller
+class ErroController extends Controller
 {
     public function Erro(){
         return view('erro');
